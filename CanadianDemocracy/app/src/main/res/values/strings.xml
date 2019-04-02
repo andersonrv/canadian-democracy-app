@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Canadian Democracy</string>
+
+    <string name="sets_prompt">Choose a legislature</string>
+
+</resources>
